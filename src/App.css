@@ -1,0 +1,15 @@
+.fa,
+.fa-brands,
+.fa-classic,
+.fa-regular,
+.fa-sharp-solid,
+.fa-solid,
+.fab,
+.far,
+.fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: flex !important;
+}
+
+
